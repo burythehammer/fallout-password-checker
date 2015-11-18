@@ -13,7 +13,7 @@ You must have ruby and git installed and be vaguely comfortable with the command
 
   `git clone https://github.com/burythehammer/fallout-password-checker.git`
 
-3. Navigate to folder you cloned it into (command is for OSX/Linux, you're on your own for Windows)
+3. Navigate to folder you cloned it into:
 
   `cd fallout-password-checker`
 
